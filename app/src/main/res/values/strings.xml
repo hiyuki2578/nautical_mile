@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">nautical_mile</string>
+    <string name="unit">unit</string>
+    <string name="kilo_to_mile">キロメートルから海里</string>
+    <string name="mile_to_kilo">海里からキロメートル</string>
+    <string name="action_settings">設定</string>
+</resources>

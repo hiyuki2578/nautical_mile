@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="unit_name">
+        <item>@string/kilo_to_mile</item>
+        <item>@string/mile_to_kilo</item>
+    </string-array>
+    <string-array name="units">
+        <item>0.539956803,kilo_to_mile</item>
+        <item>1.8520,mile_to_kilo</item>
+    </string-array>
+</resources>
